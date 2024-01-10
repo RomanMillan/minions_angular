@@ -1,0 +1,14 @@
+/* You can add global styles to this file, and also import other style files */
+h1{
+    font-size: 70px;
+    text-align: center;   
+}
+
+.evil{
+    background-color: rgb(248, 63, 63);
+    width: 35px;
+}
+.saint{
+    background-color: rgb(74, 248, 248);
+    width: 35px;
+}
